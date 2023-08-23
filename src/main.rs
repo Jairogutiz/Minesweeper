@@ -12,14 +12,18 @@ struct Minsesweeper{
 }
 
 
-// impl Minsesweeper {
+impl Minsesweeper {
     
-//     fn new(width: usize, height: usize) -> Minsesweeper{
+    fn new(width: usize, height: usize) -> Minsesweeper{
+        Minsesweeper { 
+            width: width, 
+            height: height, 
+            mine_pos: (), 
+            flaged: () 
+        }
 
-        
-//     }
-    
-// }
+    }
+}
 
 
 fn main() {
