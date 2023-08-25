@@ -1,5 +1,6 @@
-C:\Users\Jairo\VS Code Projects\Minesweeper\target\debug\deps\Minesweeper.exe: src\main.rs
+C:\Users\Jairo\VS Code Projects\Minesweeper\target\debug\deps\Minesweeper.dll: src\lib.rs src\minesweeper.rs
 
-C:\Users\Jairo\VS Code Projects\Minesweeper\target\debug\deps\Minesweeper.d: src\main.rs
+C:\Users\Jairo\VS Code Projects\Minesweeper\target\debug\deps\Minesweeper.d: src\lib.rs src\minesweeper.rs
 
-src\main.rs:
+src\lib.rs:
+src\minesweeper.rs:

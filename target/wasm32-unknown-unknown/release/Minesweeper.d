@@ -1,0 +1,1 @@
+C:\Users\Jairo\VS\ Code\ Projects\Minesweeper\target\wasm32-unknown-unknown\release\Minesweeper.wasm: C:\Users\Jairo\VS\ Code\ Projects\Minesweeper\src\lib.rs C:\Users\Jairo\VS\ Code\ Projects\Minesweeper\src\minesweeper.rs

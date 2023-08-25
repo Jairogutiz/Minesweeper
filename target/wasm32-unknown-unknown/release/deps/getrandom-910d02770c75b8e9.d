@@ -1,0 +1,11 @@
+C:\Users\Jairo\VS Code Projects\Minesweeper\target\wasm32-unknown-unknown\release\deps\getrandom-910d02770c75b8e9.rmeta: C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\lib.rs C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\error.rs C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\util.rs C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\error_impls.rs C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\js.rs
+
+C:\Users\Jairo\VS Code Projects\Minesweeper\target\wasm32-unknown-unknown\release\deps\libgetrandom-910d02770c75b8e9.rlib: C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\lib.rs C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\error.rs C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\util.rs C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\error_impls.rs C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\js.rs
+
+C:\Users\Jairo\VS Code Projects\Minesweeper\target\wasm32-unknown-unknown\release\deps\getrandom-910d02770c75b8e9.d: C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\lib.rs C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\error.rs C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\util.rs C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\error_impls.rs C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\js.rs
+
+C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\lib.rs:
+C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\error.rs:
+C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\util.rs:
+C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\error_impls.rs:
+C:\Users\Jairo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\js.rs:
